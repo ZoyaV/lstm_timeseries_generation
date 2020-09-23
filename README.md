@@ -4,10 +4,14 @@
 #### scripts - папка со скриптами
 
 **model.py** - модель 
-**preprocessing** - дополнительные модули для предобработки данных
-**train_energy_one_lstm** - обучение модели
-**test_energy_one_lstm** - предсказание и генерация с одной lstm
-**test_energy_two_lstm** - предсказание и генерация с двумя lstm
+
+**preprocessing.py** - дополнительные модули для предобработки данных
+
+**train_energy_one_lstm.py** - обучение модели
+
+**test_energy_one_lstm.py** - предсказание и генерация с одной lstm
+
+**test_energy_two_lstm.py** - предсказание и генерация с двумя lstm
 
 
 
